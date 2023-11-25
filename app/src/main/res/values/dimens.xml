@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Logo_Size">150dp</dimen>
+    <dimen name="Logo_length">150dp</dimen>
+    <dimen name="Logo_padding">8dp</dimen>
+    <dimen name="Logo_top_Margin">16dp</dimen>
+    <dimen name="QuestionTestPadding">8dp</dimen>
+</resources>

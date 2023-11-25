@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/popupResult"
+    android:layout_width="380dp"
+    android:layout_height="380dp"
+    android:layout_gravity="center"
+    android:background="@drawable/result_background">
+
+    <ImageView
+
+        android:id="@+id/logoAgain"
+        android:layout_width="143dp"
+        android:layout_height="143dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        app:srcCompat="@drawable/result" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logoAgain"
+        android:layout_centerHorizontal="true"
+        android:text="Your Result: "
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/resulttext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView2"
+        android:layout_marginTop="18dp"
+        android:fontFamily="@font/baloo_bhai_2_bold"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:hint="@string/hint"
+        android:textAllCaps="true"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

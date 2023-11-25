@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuizMaster</string>
+    <string name="BtnName">YES</string>
+    <string name="noBtn">NO</string>
+    <string name="pre_Btn"><![CDATA[< Prev]]></string>
+    <string name="nextBtn"><![CDATA[Next >]]></string>
+    <string name="Placeholder">Question goes here</string>
+
+    <string name="Query1">Do you find it difficult to reduce the amount of time you spend on your smartphone?</string>
+    <string name="Query2">Do you often find yourself mindlessly scrolling through your smartphone without a specific purpose?</string>
+    <string name="Query3">Do you feel anxious if you forget or misplace your smartphone?</string>
+    <string name="Query4">Do you check your smartphone as the first thing in the morning and the last thing at night?</string>
+    <string name="Query5">Do you use your smartphone while driving or crossing the road, even if it\'s unsafe?</string>
+    <string name="Query6">You\'re on a date, and your date seems uninterested in conversation, constantly checking their smartphone. Would you address this behavior or ignore it?</string>
+    <string name="Query7">Do you neglect other responsibilities (e.g., work, household chores) due to excessive smartphone use?</string>
+    <string name="Query8">If you\'re running late for an important meeting, and your smartphone battery is almost dead, would you take the time to charge it or head to the meeting without your smartphone?</string>
+    <string name="Query9">Do you often ignore face-to-face conversations because you are engrossed in your smartphone?</string>
+    <string name="Query10">You see a distressing post on social media about a friend. Would you immediately reach out to them or wait to see if others respond first?</string>
+    <string name="Query11">Do you feel a constant need to share updates or check for likes/notifications on social media?</string>
+    <string name="Query12">You have a deadline for a project, but a new trending game just got released. Would you play the game or focus on meeting the deadline?</string>
+    <string name="Query13">Do you prefer spending time on your smartphone rather than spending time with loved ones?</string>
+    <string name="Query14">A friend invites you to a last-minute event, but you already made plans to relax and disconnect from technology. Would you change your plans to attend the event or decline the invitation?</string>
+    <string name="Query15">Do you experience physical discomfort (e.g., eye strain, headache) due to prolonged smartphone use?</string>
+    <string name="Query16">You\'re out for a meal with friends, and everyone is engrossed in their smartphones. Would you suggest putting away the phones and engaging in the conversation?</string>
+    <string name="Query17">You receive a notification about a flash sale for an item you\'ve been wanting. However, it\'s during working hours. Would you take a break to make the purchase or wait until after work?</string>
+    <string name="Query18">Do you feel a constant need to capture and share every significant life event or moment on your smartphone?</string>
+    <string name="Query19">You receive a call during an important meeting. Would you excuse yourself to answer the call or let it go to voicemail and call back later?</string>
+    <string name="Query20">You\'re at a beautiful scenic location, and your instinct is to capture the moment on your smartphone. Would you take a few quick photos or immerse yourself in the experience without using your phone?</string>
+    <string name="Query21">Do you use your smartphone to escape from negative feelings or emotions?</string>
+    <string name="Query22">Have others expressed concern about the amount of time you spend on your smartphone?</string>
+    <string name="Query23">Do you often lose track of time while using your smartphone?</string>
+    <string name="Query24">Do you frequently use your smartphone during social interactions or at inappropriate times?</string>
+    <string name="Query25">Do you experience anxiety or restlessness when you are unable to use your smartphone?</string>
+    <string name="hint">result shown here</string>
+
+
+</resources>

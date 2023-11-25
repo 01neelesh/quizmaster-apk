@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textStyle">
+
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:fontFamily">@font/croissant_one</item>
+        <item name="android:padding">@dimen/QuestionTestPadding</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="Button_style">
+        <item name="android:layout_marginTop">196dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:backgroundTint">#1c1c1c</item>
+        <item name="android:fontFamily">@font/croissant_one</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
