@@ -1,4 +1,4 @@
-![Logo](https://github.com/01neelesh/quizmaster-apk/blob/main/assets/quiz_master.png?raw=true)
+![Logo](https://github.com/01neelesh/quizmaster-apk/blob/main/assets/quiz_master2.png?raw=true)
 
 # Quizmaster apk
 
@@ -7,3 +7,11 @@
 <h2>
 Open source project 
 </h2>
+
+## Screenshots
+
+![App Screenshot](https://github.com/01neelesh/quizmaster-apk/blob/main/assets/QuizMaster%20result.jpg?raw=true)
+
+
+## Authors
+- [@01neelesh](https://www.github.com/neelesh)
